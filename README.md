@@ -2,7 +2,7 @@
 
 ABOUT
 ------
-Video game project for Professor Solomon Russell's CS 30 class. I started the project in April 2019 and I completed it in May 2019. 
+Video game project I worked on at El Camino College as a part of Professor Solomon Russell's Advanced C++ class.
 
 IceMan is a Dig Dug clone written in C++.  I programmed the enemy AI, level randomization, other game mechanics, characters, and objects. The engine, gameplay loop, animation, art, and controls were provided by Professor Russell.
 
